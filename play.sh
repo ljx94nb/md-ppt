@@ -1,1 +1,1 @@
-reveal-md ppt.md --highlight-theme atom-one-dark --css tailwind.css -w
+reveal-md ppt.md --theme league --highlight-theme atom-one-dark --css tailwind.css,doubleCol.css -w
