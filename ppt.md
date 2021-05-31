@@ -1,3 +1,11 @@
+<!-- 背景图片：中南林业科技大学logo -->
+<div style="background-image: url(https://img.alicdn.com/imgextra/i3/O1CN01in9JUc1Vqw2UdKe21_!!6000000002705-2-tps-276-276.png); border-radius: 50%;" class="w-96 h-96 p-2.5 bg-no-repeat bg-cover bg-clip-content opacity-10 absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 -z-999"></div>
+
+<div class="mb-12">毕业答辩PPT</div>
+
+<div class="text-sm">演讲人：2017级-地理信息科学1班-罗霁鑫</div>
+
+---
 
 <!-- 背景图片：中南林业科技大学logo -->
 <div style="background-image: url(https://img.alicdn.com/imgextra/i3/O1CN01in9JUc1Vqw2UdKe21_!!6000000002705-2-tps-276-276.png); border-radius: 50%;" class="w-96 h-96 p-2.5 bg-no-repeat bg-cover bg-clip-content opacity-10 absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 -z-999"></div>
@@ -168,6 +176,8 @@ Note: 以上数据预处理均使用 node.js 处理数据
 
 <img src="https://img.alicdn.com/imgextra/i1/O1CN01niRJbo22mFIwPPDbR_!!6000000007162-2-tps-832-716.png" style="height: 500px;" class="pl-48" />
 
+Note: 这里需要使用网站演示具体的功能。
+
 ---
 
 <!-- 背景图片：中南林业科技大学logo -->
@@ -176,7 +186,7 @@ Note: 以上数据预处理均使用 node.js 处理数据
 <div class="mb-12">主要难点</div>
 
 <ul class="text-xl">
-  <li>数据处理量大，要将10w条单车骑行数据通过逆地理编码找到起始点地和目的地的地址，并且根据行政区划分单车数据。</li>
+  <li>数据处理量大，要将10w条单车骑行数据通过逆地理编码找到起始地和目的地的地址，并且根据行政区划分单车数据。</li>
   <li>数据缓存大：使用indexedDB存储每个行政区的单车骑行数据。</li>
   <li>根据公式计算骑行路线的长度，并且在地图上绘制骑行路线，动态展示。</li>
   <li>统计起始地和目的地周边的POI信息，分析每日的热点地区以及骑行人数，并且热点地区以3D柱状图展示在地图上。</li>
@@ -189,3 +199,5 @@ Note: 以上数据预处理均使用 node.js 处理数据
 <div style="background-image: url(https://img.alicdn.com/imgextra/i3/O1CN01in9JUc1Vqw2UdKe21_!!6000000002705-2-tps-276-276.png); border-radius: 50%;" class="w-96 h-96 p-2.5 bg-no-repeat bg-cover bg-clip-content opacity-10 absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 -z-999"></div>
 
 <div class="mb-12">谢谢观看！</div>
+
+<img src="https://img.alicdn.com/imgextra/i1/O1CN01S479VG21aVXMyMP9I_!!6000000007001-2-tps-1146-388.png" style="height: 200px;" class="pl-44" />
