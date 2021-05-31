@@ -172,3 +172,14 @@ Note: 以上数据预处理均使用 node.js 处理数据
 
 <!-- 背景图片：中南林业科技大学logo -->
 <div style="background-image: url(https://img.alicdn.com/imgextra/i3/O1CN01in9JUc1Vqw2UdKe21_!!6000000002705-2-tps-276-276.png); border-radius: 50%;" class="w-96 h-96 p-2.5 bg-no-repeat bg-cover bg-clip-content opacity-10 absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 -z-999"></div>
+
+<div class="mb-12">主要难点</div>
+
+<ul class="text-xl">
+  <li>数据处理量大，要将10w条单车骑行数据通过逆地理编码找到起始点地和目的地的地址，并且根据行政区划分单车数据。</li>
+  <li>数据缓存大：使用indexedDB存储每个行政区的单车骑行数据。</li>
+  <li>根据公式计算骑行路线的长度，并且在地图上绘制骑行路线，动态展示。</li>
+  <li>统计起始地和目的地周边的POI信息，分析每日的热点地区，并且以3D柱状图展示在地图上。</li>
+  <li>计算运营区多边形。</li>
+  <li>统计每日的热点地区有哪些和每日每时的骑行人数、骑行距离，并且生成json文件</li>
+</ul>
