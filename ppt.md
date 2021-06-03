@@ -1,9 +1,11 @@
 <!-- 背景图片：中南林业科技大学logo -->
 <div style="background-image: url(https://img.alicdn.com/imgextra/i3/O1CN01in9JUc1Vqw2UdKe21_!!6000000002705-2-tps-276-276.png); border-radius: 50%;" class="w-96 h-96 p-2.5 bg-no-repeat bg-cover bg-clip-content opacity-10 absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 -z-999"></div>
 
-<div class="mb-12">毕业答辩PPT</div>
+<div class="mb-12">基于GIS空间分析的共享单车区域管理后台系统设计和开发</div>
 
-<div class="text-sm">演讲人：2017级-地理信息科学1班-罗霁鑫</div>
+<div class="text-sm mb-4">演讲人：2017级-地理信息科学1班-罗霁鑫</div>
+
+<div class="text-sm">指导老师：汪斌</div>
 
 ---
 
@@ -198,6 +200,6 @@ Note: 这里需要使用网站演示具体的功能。
 <!-- 背景图片：中南林业科技大学logo -->
 <div style="background-image: url(https://img.alicdn.com/imgextra/i3/O1CN01in9JUc1Vqw2UdKe21_!!6000000002705-2-tps-276-276.png); border-radius: 50%;" class="w-96 h-96 p-2.5 bg-no-repeat bg-cover bg-clip-content opacity-10 absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 -z-999"></div>
 
-<div class="mb-12">谢谢观看！</div>
+<div class="mb-12">感谢各位老师的聆听与指导！</div>
 
 <img src="https://img.alicdn.com/imgextra/i1/O1CN01S479VG21aVXMyMP9I_!!6000000007001-2-tps-1146-388.png" style="height: 200px;" class="pl-44" />
